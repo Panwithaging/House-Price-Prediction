@@ -97,7 +97,6 @@ The following regression models were trained and compared:
 
 - Linear Regression
 - K-Nearest Neighbors Regressor
-- Support Vector Regressor (SVR)
 - Decision Tree Regressor
 - Random Forest Regressor
 
